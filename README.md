@@ -6,4 +6,4 @@
   - **Usuario:** campusfp
   - **Contraseña:** contraseña
 
-![Preview](rpreview.png?raw=true "Preview")
+![Preview](preview.png?raw=true "Preview")
