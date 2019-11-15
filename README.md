@@ -1,7 +1,7 @@
 # libraryapp
- Maqueta de página de librería.
- Servidor: django
+ Maqueta de página de librería usando django y Material Design Lite.
+ 
  Credenciales del superusuario:
  
-  - Usuario: campusfp
-  - Contraseña: contraseña
+  - **Usuario:** campusfp
+  - **Contraseña:** contraseña
